@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://firebasestorage.googleapis.com/v0/b/multi-store-d5205.appspot.com/o/github%20photo.png?alt=media&token=dc3fe5cb-28fe-4aaf-bdaf-32c3ad4c5061"  />
+  <img height="400" src="https://firebasestorage.googleapis.com/v0/b/multi-store-d5205.appspot.com/o/github%20photo.png?alt=media&token=dc3fe5cb-28fe-4aaf-bdaf-32c3ad4c5061"  />
 </div>
 
 ###
