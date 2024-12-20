@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
+  <img height="400" src="https://firebasestorage.googleapis.com/v0/b/multi-store-d5205.appspot.com/o/github%20photo.png?alt=media&token=dc3fe5cb-28fe-4aaf-bdaf-32c3ad4c5061"  />
+</div>
 
-<!--
-**mohamedelbaiomy/mohamedelbaiomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="center">Hi 👋! I'm Mohamed Elbaiomy</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="center">Mobile app Developer & Instructor</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedelbaiomy.mohamedelbaiomy&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<p align="left">Student at the Faculty of Computers & Artificial Intelligence, highly dedicated to mobile development with a particular focus on Flutter. Have a passion for learning and innovation, a strong work ethic. and an unwavering commitment to excellence</p>
+
+###
+
+<h6 align="left">* Ask me about everything : mohamedelbaiomy262003@gmail.com</h6>
+
+###
+
+<h3 align="left">Contact me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohamed-elbaiomy262003/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/Original262003" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://youtube.com/@mohamedelbaiomy262?si=NQoiI9kUj5k1vI1D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Languages and Tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
+</div>
+
+###
