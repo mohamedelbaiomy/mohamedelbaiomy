@@ -10,6 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohamedelbaiomy?page=1&tab=repositories)**.
 
+<!-- [![Email](https://img.shields.io/badge/Email-mohamedelbaiomy262003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelbaiomy262003@gmail.com) -->
 
 <br>
 <div align="center">
