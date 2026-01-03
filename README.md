@@ -31,8 +31,14 @@
 <br>
 
 ## 📊 My Stats:
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mohamedelbaiomy)](https://git.io/streak-stats) -->
 
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohamedelbaiomy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mohamedelbaiomy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<!-- <p align="center">
     <a href="https://github.com/mohamedelbaiomy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed Elbaiomy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelbaiomy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -44,7 +50,7 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br>
+<br> -->
 
 ## 🤝 Connect With Me:
 
